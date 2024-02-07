@@ -26,13 +26,12 @@ export default async function Home() {
         <div className="content">
           <PageTitle title="Home" className="lg:hidden" />
           <p>
-            {`Hi 👋 I'm Onur (meaning "Honour" in English), a software engineer, dj, writer, and minimalist based in Amsterdam,
-          The Netherlands.`}
+            {`Hi 👋 I'm Rohit (meaning "The first rays of the sun" in English), a software engineer and minimalist based in Bangalore,
+          India.`}
           </p>
           <p>
-            I develop things as a Senior Frontend Software Engineer at Bitvavo. Previously, I worked as a Senior
-            Frontend Software Engineer at heycar, Frontend Software Engineer at Yemeksepeti, Fullstack Software Engineer
-            at Sistas, Mobile Developer at Tanbula, and Specialist at Apple.
+            I develop things as a Junior Backend Software Engineer at Wipro. Previously, I worked as a Full Stack
+            Developer in my current Org.
           </p>
           <Button asChild variant="link" className="inline px-0">
             <Link href="/writing">
